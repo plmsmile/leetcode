@@ -1,5 +1,6 @@
 /*
  * 二叉树的最小深度
+ * https://plmsmile.github.io/2017/12/29/leetcode-01/#二叉树的最小深度-111
  *
  * @author PLM
  * @date 2018-01-06
